@@ -1,0 +1,23 @@
+{
+  "name": "gtiminskis-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-pdf": "node create-pdf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giedrius-timinskis/gtiminskis-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giedrius-timinskis/gtiminskis-resume/issues"
+  },
+  "homepage": "https://github.com/giedrius-timinskis/gtiminskis-resume#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
